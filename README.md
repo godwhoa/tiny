@@ -9,5 +9,9 @@ A collection of tiny cli tools.
 Gets the most recently modified file<br>
 `Usage: rmod <dir>`
 
-## Note:
-Linux x64 binaries in bin
+### iclip
+Copies image to clipboard. Note: It uses pygtk.
+`Usage: iclip <file>`
+
+## Install:
+Linux x64 binaries in bin so just put it in your PATH.
